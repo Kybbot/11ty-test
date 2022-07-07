@@ -1,0 +1,16 @@
+{
+  "name": "kevin-povel-blog",
+  "version": "1.0.0",
+  "description": "11ty Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+		"build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
